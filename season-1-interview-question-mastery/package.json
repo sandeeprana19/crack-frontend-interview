@@ -1,0 +1,30 @@
+{
+  "name": "season-1-interview-question-mastery",
+  "version": "1.0.0",
+  "description": "Ep-01 | call, apply and bind method",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sandeeprana19/crack-frontend-interview.git"
+  },
+  "keywords": [
+    "call",
+    "apply",
+    "and",
+    "bind",
+    "methods"
+  ],
+  "author": "Sandeep Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeeprana19/crack-frontend-interview/issues"
+  },
+  "homepage": "https://github.com/sandeeprana19/crack-frontend-interview#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
